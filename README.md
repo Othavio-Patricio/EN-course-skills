@@ -16,8 +16,8 @@ This repository contains exercises developed by _[Othavio Macedo Patricio](https
 - [x] 2-3: _Internet - How it works_
 
 ##### Block 3: Introduction - HTML & CSS
-- [ ] 3-1: _Introduction - HTML & CSS_
-- [ ] 3-1: _HTML & CSS - Page structure_
+- [x] 3-1: _Introduction - HTML & CSS_
+- [x] 3-1: _HTML & CSS - Page structure_
 - [ ] 3-2: _HTML & CSS - First steps in CSS_
 - [ ] 3-3: _HTML & CSS - Selectors and positioning_
 - [ ] 3-4: _HTML Semantic_

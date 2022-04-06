@@ -18,13 +18,13 @@ This repository contains exercises developed by _[Othavio Macedo Patricio](https
 ##### Block 3: Introduction - HTML & CSS
 - [x] 3-1: _Introduction - HTML & CSS_
 - [x] 3-1: _HTML & CSS - Page structure_
-- [ ] 3-2: _HTML & CSS - First steps in CSS_
-- [ ] 3-3: _HTML & CSS - Selectors and positioning_
-- [ ] 3-4: _HTML Semantic_
-- [ ] 3-5: _[Project - Lessons Learned]()_
+- [x] 3-2: _HTML & CSS - First steps in CSS_
+- [x] 3-3: _HTML & CSS - Selectors and positioning_
+- [x] 3-4: _HTML Semantic_
+- [x] 3-5: _[Project - Lessons Learned]()_
 
 ##### Block 4: Introduction - JavaScript and Logic Programming
-- [ ] 4-1: _Introduction - JavaScript_
+- [x] 4-1: _Introduction - JavaScript_
 - [ ] 4-1: _JavaScript - First Steps_
 - [ ] 4-2: _JavaScript - Array and For loop_
 - [ ] 4-3: _JavaScript - Programming Logic and Algorithms_

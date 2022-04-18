@@ -25,15 +25,15 @@ This repository contains exercises developed by _[Othavio Macedo Patricio](https
 
 ##### Block 4: Introduction - JavaScript and Logic Programming
 - [x] 4-1: _Introduction - JavaScript_
-- [ ] 4-1: _JavaScript - First Steps_
-- [ ] 4-2: _JavaScript - Array and For loop_
-- [ ] 4-3: _JavaScript - Programming Logic and Algorithms_
-- [ ] 4-4: _JavaScript - Objects and functions_
-- [ ] 4-5: _[Project - Playground Functions]()_
+- [x] 4-1: _JavaScript - First Steps_
+- [x] 4-2: _JavaScript - Array and For loop_
+- [x] 4-3: _JavaScript - Programming Logic and Algorithms_
+- [x] 4-4: _JavaScript - Objects and functions_
+- [x] 4-5: _[Project - Playground Functions]()_
 
 ##### Block 5: JavaScript: DOM, Events, and Web Storage
-- [ ] 5-1: _JavaScript - DOM and selectors_
-- [ ] 5-2: _JavaScript - Working with elements_
+- [x] 5-1: _JavaScript - DOM and selectors_
+- [x] 5-2: _JavaScript - Working with elements_
 - [ ] 5-3: _JavaScript - Events_
 - [ ] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _Fundamentals - JavaScript - Projects_

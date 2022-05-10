@@ -1,6 +1,6 @@
 ## HTML & CSS - Forms
 
-Aqui aprendi aprendi sobre formulários em HTML, que são uma forma de enviar informações para outra página do seu site ou para um servidor.
+Here, I learned about HTML forms, which are a way to send information to another page on your site or to a server.
 
-Agora sou capaz de:
-- [x] Criar formulários em HTML com as tags: input, button, textarea, select, form. 
+I am now able to:
+- [x] Create HTML forms with the tags: input, button, textarea, select, form.

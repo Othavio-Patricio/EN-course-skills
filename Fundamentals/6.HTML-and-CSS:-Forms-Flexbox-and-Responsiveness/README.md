@@ -1,3 +1,3 @@
-## HTML e CSS: Forms, Flexbox e Responsivo
+## HTML and CSS: Forms, Flexbox and Responsive
 
-Aqui aprendi sobre formulários em HTML, como adicionar bibliotecas JavaScript e CSS aos meus sites,sobre CSS Flexbox e como utilizar media queries para mostrar um layout diferente em tamanhos de tela diferentes.
+Here I learned about HTML forms, how to add JavaScript and CSS libraries to my sites, about CSS Flexbox and how to use media queries to show a different layout on different screen sizes.

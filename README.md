@@ -34,29 +34,29 @@ This repository contains exercises developed by _[Othavio Macedo Patricio](https
 ##### Block 5: JavaScript: DOM, Events, and Web Storage
 - [x] 5-1: _JavaScript - DOM and selectors_
 - [x] 5-2: _JavaScript - Working with elements_
-- [ ] 5-3: _JavaScript - Events_
-- [ ] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _Fundamentals - JavaScript - Projects_
-- [ ] 5-5: _[Project - Art with Pixels]()_
-- [ ] 5-6: _[Project - Task list]()_
-- [ ] 5-7: _[Project (Bonus) - Meme Generator]()_
-- [ ] 5-7: _[Project (Bonus) - Guess the Color]()_
-- [ ] 5-7: _[Project (Bonus) - Mystery Letter]()_
+- [x] 5-3: _JavaScript - Events_
+- [x] 5-4: _JavaScript - Web Storage_
+- [x] 5-5: _Fundamentals - JavaScript - Projects_
+- [x] 5-5: _[Project - Art with Pixels]()_
+- [x] 5-6: _[Project - Task list]()_
+- [x] 5-7: _[Project (Bonus) - Meme Generator]()_
+- [x] 5-7: _[Project (Bonus) - Guess the Color]()_
+- [x] 5-7: _[Project (Bonus) - Mystery Letter]()_
 
 ##### Block 6: HTML & CSS: Forms, Flexbox, and Responsive
-- [ ] 6-1: _HTML & CSS - Forms_
-- [ ] 6-2: _JavaScript Libraries and CSS Frameworks_
-- 6-3: _Introduction - CSS Flexbox_
-- 6-3: _CSS Flexbox - Part 1_
-- [ ] 6-4: _CSS Flexbox - Part 2_
-- [ ] 6-5: _Responsive CSS - Mobile First_
-- [ ] 6-6: _[Project - Trybewarts]()_
+- [x] 6-1: _HTML & CSS - Forms_
+- [x] 6-2: _JavaScript Libraries and CSS Frameworks_
+- [x] 6-3: _Introduction - CSS Flexbox_
+- [x] 6-3: _CSS Flexbox - Part 1_
+- [x] 6-4: _CSS Flexbox - Part 2_
+- [x] 6-5: _Responsive CSS - Mobile First_
+- [x] 6-6: _[Project - Trybewarts]()_
 
 ##### Block 7: Introduction to JavaScript ES6 and Unit Testing
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
-- [ ] 7-2: _JavaScript ES6 - Exception flow and Objects_
-- [ ] 7-3: _First steps in Jest_
-- [ ] 7-4: _[Project - JavaScript Unitary Testing]()_
+- [x] 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
+- [x] 7-2: _JavaScript ES6 - Exception flow and Objects_
+- [x] 7-3: _First steps in Jest_
+- [x] 7-4: _[Project - JavaScript Unitary Testing]()_
 
 ##### Block 8: Higher Order Functions of JavaScript ES6
 - [ ] 8-1: _JavaScript ES6 - Introduction to Higher Order Functions_
